@@ -23,7 +23,7 @@ body {
 
 header {
     margin-top: 32px;
-    height: calc(120px + 32px);
+    /* height: calc(120px + 32px); */
 }
 
 header div {
